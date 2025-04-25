@@ -23,7 +23,7 @@ const PaymentPage = () => {
     }
 
     const handler = window.PaystackPop.setup({
-      key: "pk_live_767645f078e3e72d8b17f83dd5016ceb25362efe",
+      key: "",
       email,
       amount,
       currency: "NGN",
